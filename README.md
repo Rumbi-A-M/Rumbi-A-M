@@ -34,12 +34,3 @@
 
 > 💡 “Stay curious. Stay driven. Master the tech. Own the future.”
 
-
-## 📫 Let's Connect
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-
----
-
-> 💡 “Stay curious. Stay driven. Master the tech. Own the future.”
