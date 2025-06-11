@@ -4,8 +4,8 @@
 💻 Aspiring **Full-Stack Developer** & **Cybersecurity Expert**  
 🛠️ Building hands-on skills in **Web Development**, **App Development**, and **IT Support**  
 🌱 Currently learning: `React`, `Linux`, `Networking`, `SQL`, and `Cybersecurity Tools`  
-📈 On a mission to become a tech genius through constant learning and real-world projects  
-🚀 Launching my public IT Help Desk app after exams (June 2025)
+📈 On a mission to become a Software Engineer 
+🚀 Launching my public IT Help Desk 
 
 ---
 
