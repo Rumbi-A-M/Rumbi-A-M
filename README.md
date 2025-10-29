@@ -1,33 +1,43 @@
-👋 Hi there, I'm Rumbidzai Audrey Mateke
+# 💫 About Me:
+🎓 **Cybersecurity Student** | 💻 **Aspiring Full-Stack Developer & Cybersecurity Professional**  
+🌱 Currently learning **React, Linux, Networking, SQL, and Cybersecurity Tools**  
+🚀 On a mission to become a **Software Engineer** while launching my **public IT Help Desk**  
+💡 “Stay curious. Stay driven. Master the tech. Own the future.”  
 
-🎓 Cybersecurity Student | 💻 Aspiring Full-Stack Developer & Cybersecurity Professional
+📫 **Let’s Connect:**  
+📧 [rumbidzaiamateke@gmail.com](mailto:rumbidzaiamateke@gmail.com)  
+🌐 [LinkedIn: Rumbidzai Audrey Mateke](https://www.linkedin.com/in/rumbidzai-audrey-mateke)  
+🧪 Portfolio: *Coming soon — stay tuned!*
 
-🛠️ Building hands-on expertise in Web Development, App Development, and IT Support
-🌱 Currently learning: React, Linux, Networking, SQL, and Cybersecurity Tools
-🚀 On a mission to become a Software Engineer while launching my public IT Help Desk
+---
 
-🧰 Tech Stack
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Networking](https://img.shields.io/badge/networking-%230075A8.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/cybersecurity-%23000000.svg?style=for-the-badge&logo=protonvpn&logoColor=white)
 
-Frontend: HTML5, CSS3, JavaScript, React
+---
 
-Backend & Databases: Node.js, SQL, C#
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RumbidzaiAudreyMateke&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=RumbidzaiAudreyMateke&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RumbidzaiAudreyMateke&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Tools & Workflow: Git, Linux, Networking, Cybersecurity Labs
+---
 
-📈 GitHub Highlights
+# 🚀 Current Projects & Learning:
+- Building **full-stack applications** to strengthen my portfolio  
+- Exploring **CS50, SheCodes React, and TCM Security Training**  
+- Focused on **secure, scalable applications with real-world impact**
 
-🚧 Currently pushing full-stack projects to strengthen my portfolio
+---
 
-📊 Exploring CS50, SheCodes React, and The Cyber Mentor (TCM) training
-
-🌟 Focus: Building secure, scalable applications with real-world impact
-
-📫 Let’s Connect
-
-📧 Email: rumbidzaiamateke@gmail.com
-
-🌐 LinkedIn: Rumbidzai Audrey Mateke
-
-🧪 Portfolio: [Coming soon — stay tuned]
-
-💡 “Stay curious. Stay driven. Master the tech. Own the future.”
+⭐ **From:** [Rumbidzai Audrey Mateke](https://github.com/RumbidzaiAudreyMateke)
