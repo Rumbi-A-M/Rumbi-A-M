@@ -27,9 +27,9 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RumbidzaiAudreyMateke&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=RumbidzaiAudreyMateke&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RumbidzaiAudreyMateke&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Rumbi-A-M&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rumbi-A-M&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rumbi-A-M&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -40,4 +40,5 @@
 
 ---
 
-⭐ **From:** [Rumbidzai Audrey Mateke](https://github.com/RumbidzaiAudreyMateke)
+⭐ **From:** [Rumbidzai Audrey Mateke](https://github.com/Rumbi-A-M)
+
