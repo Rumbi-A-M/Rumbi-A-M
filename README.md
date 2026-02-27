@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎓 **Cybersecurity Student** | 💻 **Aspiring Full-Stack Developer & Cybersecurity Professional**  
 🌱 Currently learning **React, Linux, Networking, SQL, and Cybersecurity Tools**  
-🚀 On a mission to become a **Software Engineer** while launching my **public IT Help Desk**  
+🚀Currently learning IT Help Desk 
 💡 “Stay curious. Stay driven. Master the tech. Own the future.”  
 
 📫 **Let’s Connect:**  
