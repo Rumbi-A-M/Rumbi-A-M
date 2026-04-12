@@ -7,7 +7,7 @@
 📫 **Let’s Connect:**  
 📧 [rumbidzaiamateke@gmail.com](mailto:rumbidzaiamateke@gmail.com)  
 🌐 [LinkedIn: Rumbidzai Audrey Mateke](https://www.linkedin.com/in/rumbidzai-audrey-mateke)  
-🧪 Portfolio: *Coming soon — stay tuned!*
+https://rumbidzaisportfolio.netlify.app/ 
 
 ---
 
