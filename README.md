@@ -7,8 +7,12 @@
 📫 **Let’s Connect:**  
 📧 [rumbidzaiamateke@gmail.com](mailto:rumbidzaiamateke@gmail.com)  
 🌐 [LinkedIn: Rumbidzai Audrey Mateke](https://www.linkedin.com/in/rumbidzai-audrey-mateke)  
-https://rumbidzaisportfolio.netlify.app/ 
-
+MY PORTFOLIO: https://rumbidzaisportfolio.netlify.app/ 
+1st website: https://sihlesibiya.netlify.app/
+2nd website: htttps://cargogo.asia
+3rd website: https://rnaldwalkerjobvcancy.wixsite.com/vacancybox1
+4rth website: https://kishgas.co.za/
+5th website: https://atmcapital.lovable.app/  (using ai )
 ---
 
 # 💻 Tech Stack:
